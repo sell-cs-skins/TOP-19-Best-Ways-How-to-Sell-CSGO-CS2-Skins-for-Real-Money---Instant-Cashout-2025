@@ -39,7 +39,7 @@ Hi! As someone who has spent years trading and cashing out skins, I know firstha
 **17.[SkinBid](https://csgorockit.com/go/skinbid)**
 
 ## LIS-SKINS
-**Official website:** [lis-skins.com](https://lis-skins.com) 
+**Official website:** [Lis-Skins](https://csgorockit.com/go/lisskins)
 
 **Description**: LIS-SKINS is a long-running, bot-based marketplace for CS2, Dota 2, and Rust items that prioritizes instant delivery and cashouts over peer-to-peer haggling, a model that appeals to traders who value speed and predictability over micromanaging listings. It launched in 2017 and operates under In-Game Solutions PTE. LTD. out of Singapore, while historically drawing a large Russian-speaking audience, a split reflected in both its interface and community channels.   
 In practice, buyers fund a wallet via card or crypto and receive items from site bots immediately after checkout, while sellers hand over items to the platform’s bots and can withdraw proceeds to cards or crypto following holds, with fees varying by method. Reviews across industry trackers and consumer sites portray a service that’s legitimately established and widely used, albeit with a fee structure that’s steeper than many P2P cashout competitors and occasional complaints about communication cadence. 
@@ -56,7 +56,7 @@ Coverage from comparison hubs underscores unique conveniences like built-in scre
 - Strong public reputation with high aggregated ratings and visible moderation of user feedback. 
 
 ## Moon Market
-**Official website:** [MIT License](https://opensource.org/license/mit/) 
+**Official website:** [Moon market](https://csgorockit.com/go/moonmarket)
 
 **Description**:  
 Moon Market positions itself as a fast, automated buyer of Steam inventory—covering CS:GO/CS2, Dota 2, TF2, Rust, and more—promising quick payouts and market-topping rates with a frugal, utilitarian interface that centers on conversion over splashy branding.  The service leans on straightforward flows for listing and selling items, trimming friction for gamers who want cash liquidity without micromanaging peer-to-peer trades.   
@@ -74,7 +74,7 @@ Moon Market operates in a gray zone where gaming marketplaces, fintech rails, an
 - Category familiarity for Steam inventory sellers who want predictable settlement without P2P risk.   
 
 ## Avan.Market
-**Official website:** [avan.market](https://avan.market)
+**Official website:** [Avan market](https://csgorockit.com/go/avan-market)
 
 **Description**:
 Avan.Market is framed as a real-money marketplace for digital skins, prioritizing speed, automation, and settlement clarity across CS2, Dota 2, Rust, and TF2-adjacent inventories. The service emphasizes a “trade protected” workflow meant to reduce post-delivery reversals, pairing bot-assisted execution with explicit timelines for transfers and withdrawals. In public-facing materials, the positioning mixes pragmatic liquidity—quick exits for common items—with transparent fees and multiple payout rails, including bank cards, e‑wallets, and crypto.
@@ -92,7 +92,7 @@ The editorial impression is of a scaled operator courting a CIS-heavy audience w
 
 
 ## Aim.market
-**Official website:** aim.market
+**Official website:** [Aim market](https://csgorockit.com/go/aim-market)
 
 **Description**: Aim.market positions itself as a fast-moving marketplace for CS2 and other Steam items, leaning on a bot-based infrastructure that prioritizes instant delivery for buyers and predictable settlement for sellers. The platform emerged in 2023 and has since cultivated a reputation for legitimacy, with third-party vetting and visible community traction. User sentiment indexed on major review hubs highlights speed of withdrawal and cost-sensitive commissions as recurring themes in feedback. Operationally, the marketplace is tied to Singapore through a registered operator, which adds a layer of corporate traceability uncommon in smaller skin markets. Activity metrics published by independent trackers suggest material monthly traffic and an expansive catalog, indicating healthy liquidity in listed offers. Payment rails are crypto-forward, with Bitcoin, Ethereum, and Tether serving both checkout and cash-out paths, reducing friction for globally distributed users. Structurally, Aim.market’s deposit-first model trades seller convenience for buyer certainty, mirroring traditional custodial markets over newer peer-to-peer listings. That custodial stance also underpins “instant trade” fulfillment, which remains a core consumer promise. Visibility across Telegram and community sites points to an engaged audience that tracks updates and feature changes closely. Overall, the service reads as a pragmatic exchange: simple rails, measurable volume, and an emphasis on delivery time—all underpinned by public review histories and external profiling.
 
@@ -107,7 +107,7 @@ The editorial impression is of a scaled operator courting a CIS-heavy audience w
 
 
 ## Tradeit.gg
-**Official website:** [MIT License](https://opensource.org/license/mit/)
+**Official website:** [Tradeit](https://csgorockit.com/go/tradeit)
 
 **Description**: Tradeit.gg is a long-running marketplace for swapping, buying, and instant-bot trading of CS2, Rust, TF2, and Dota 2 skins, positioned around fast execution and consistently visible inventory depth in the hundreds of thousands of items . Operating since 2017, the service emphasizes bot-powered trades that complete in seconds, while touting 60+ million completed transactions and round-the-clock support as a trust signal to active traders . Independent review hubs highlight a strong reputation on Trustpilot alongside recurring debates about fee structures, especially for cash-outs via crypto and “instant sell” options . The platform’s pitch centers on ease of use—select items, accept a bot offer, confirm on Steam—and on stability during market spikes when peer-to-peer listings can stall .  
 
@@ -124,7 +124,7 @@ As CS2’s economy has evolved, Tradeit.gg has leaned into consistent pricing an
 
 
 ## Skins.Cash
-**Official website:** [Skins.Cash](https://skins.cash)
+**Official website:** [Skins Cash](https://csgorockit.com/go/skins-cash)
 
 **Description**: Skins.Cash operates as an instant cash-out platform for game cosmetics, letting players liquidate CS2, Dota 2, Rust, and TF2 items for real-world payouts without waiting for marketplace buyers . Founded in 2016, it has sustained visibility within the trading community alongside a large corpus of user feedback and discussion threads, a signal of enduring relevance and scrutiny . Reviews consistently frame the service as a speed-first utility: transactions complete in minutes via bots, with timelines varying by payout rail and occasional bank processing holds on cards . 
 
